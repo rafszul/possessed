@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/rafszul/possessed/issues"
   },
-  "homepage": "https://github.com/rafszul/possessed"
+  "homepage": "https://github.com/rafszul/possessed",
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  }
 }
