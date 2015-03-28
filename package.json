@@ -1,0 +1,26 @@
+{
+  "name": "possessed",
+  "version": "1.0.0",
+  "description": "possessed with fire is an impertinent and volatile synthesis of modern web tech intoxicated with primitive game mechanics and heavy acid techno, set on a mathematically defined collision course with dynamic and razor-edged scalable vector graphics.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rafszul/possessed.git"
+  },
+  "keywords": [
+    "svg",
+    "animation",
+    "game",
+    "html5",
+    "smil"
+  ],
+  "author": "rafszul",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/rafszul/possessed/issues"
+  },
+  "homepage": "https://github.com/rafszul/possessed"
+}
