@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/rafszul/possessed",
   "devDependencies": {
-    "grunt": "^0.4.5"
+    "grunt": "^0.4.5",
+    "grunt-svg-combine": "^0.1.3"
   }
 }
