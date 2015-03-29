@@ -1,25 +1,25 @@
 module.exports = function(grunt) {
     grunt.initConfig({
-        
+
         pkg: grunt.file.readJSON('package.json'),
-        
+
         svgcombine: {
             files: {
                 'svg-cache.html': ['svg/*.svg'],
             },
             },
         });
-        
-        grunt.loadNpmTasks('grunt-svg-combine');
-        
-        
 
-                     
-                     
-                     
-                     
-                     
-                     
+        grunt.loadNpmTasks('grunt-svg-combine');
+
+
+
+
+
+
+
+
+
 
 /*    Common svg-sprite config options and their default values
 
@@ -55,6 +55,4 @@ module.exports = function(grunt) {
                  },
                  variables               : {}                        // Custom Mustache templating variables and functions
                  }
-*/ 
-    
-  
+*/
