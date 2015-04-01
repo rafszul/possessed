@@ -1,4 +1,4 @@
-possessed with fire is an impertinent and volatile synthesis of modern web tech intoxicated with primitive game mechanics and heavy acid techno, set on a mathematically defined collision course with dynamic and razor-edged scalable vector graphics
+don't u just love the short description? reminds me of the definition of javascript which i found in one of the books published recently. i can't remember which one so if you know what i have in mind [drop me a line] 
 
 ![](https://s3-us-west-2.amazonaws.com/s.cdpn.io/73058/mountains-584280.png-01-OMG.svg)
 
