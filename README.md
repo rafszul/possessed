@@ -6,7 +6,9 @@ don't u just love the short description? reminds me of the definition of javascr
 
 the game is in s very early stage of development and at the moment i'm only gathering together materials and graphical elements which might inspire some of the artwork that eventually will end up as part of the game.
 
-<a data-pin-do="embedBoard" href="https://www.pinterest.com/rafszul/possessed-with-fire/"data-pin-scale-width="80" data-pin-scale-height="200" data-pin-board-width="400">        Follow rafal's board possessed-with-fire on Pinterest.</a><!-- Please call pinit.js only once per page --><script type="text/javascript" async src="//assets.pinterest.com/js/pinit.js"></script>    
+<a data-pin-do="embedBoard" href="https://www.pinterest.com/rafszul/possessed-with-fire/"data-pin-scale-width="80" data-pin-scale-height="200" data-pin-board-width="400">        Follow rafal's board possessed-with-fire on Pinterest.</a><!-- Please call pinit.js only once per page --><script type="text/javascript" async src="//assets.pinterest.com/js/pinit.js"></script>
+
+<iframe src='//padlet.com/embed/ivq9n4j6u21a' frameborder='0' width='100%' height='480px' style='padding:0;margin:0;border:none'></iframe><div style='border-top:2px solid #a7d23a;padding:8px;margin:0;font-size:12px;text-align:right'><a href='http://padlet.com' style='color:#41555f;text-decoration:none'>Created with Padlet<img valign='middle' style='margin:0 0 0 10px;padding:0;border:none;width:16px;height:16px' src='http://padlet.com/favicon.ico'></a></div>
 
 with this in mind i would like to take a look at the description again this time with links to some references which might tell you more than my explanations ever could/would or most probably will be (unless we have a better writer tnam me that is).
 
