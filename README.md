@@ -8,7 +8,7 @@ the game is in s very early stage of development and at the moment i'm only gath
 
 <a data-pin-do="embedBoard" href="https://www.pinterest.com/rafszul/possessed-with-fire/"data-pin-scale-width="80" data-pin-scale-height="200" data-pin-board-width="400">        Follow rafal's board possessed-with-fire on Pinterest.</a><!-- Please call pinit.js only once per page --><script type="text/javascript" async src="//assets.pinterest.com/js/pinit.js"></script>
 
-some graphics http://padlet.com/rafszul/shadows already went through the meatgrinder and you can find them in [/svg folder](https://github.com/rafszul/possessed/tree/master/svg). 
+some graphics http://padlet.com/rafszul/shadows already went through the meatgrinder and you can find them in [/svg folder](https://github.com/rafszul/possessed/tree/master/svg).
 
 with this in mind i would like to take a look at the description again this time with links to some references which might tell you more than my explanations ever could/would or most probably will be (unless we have a better writer tnam me that is).
 

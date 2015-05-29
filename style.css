@@ -1,0 +1,247 @@
+body,
+html {
+  width: 100%;
+  height: 30px;
+  background-color: #d2d2d2;
+  padding: 0px;
+  margin: 0px;
+}
+#controll {
+  position: absolute;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+  z-index: 9;
+  color: white;
+  font-weight: 900;
+  line-height: 100px;
+}
+#left {
+  width: 50%;
+  height: 100%;
+  float: left;
+  background: rgba(255, 255, 255, 0);
+}
+#right {
+  width: 50%;
+  height: 100%;
+  float: right;
+  background: rgba(255, 255, 255, 0);
+}
+#player {
+  position: absolute;
+  bottom: 5px;
+  left: 30%;
+  margin: auto auto;
+  width: 125px;
+  height: 125px;
+  -webkit-transform: translateZ(0);
+  background-image: url(http://i.imgur.com/VTyo70d.png);
+  z-index: 2;
+}
+.run {
+  -moz-animation: player_run 0.7s infinite steps(12), linear;
+  -webkit-animation: player_run 0.7s infinite steps(12), linear;
+}
+.jump {
+  -moz-animation: player_jump 0.5s steps(11), linear;
+  -webkit-animation: player_jump 0.5s steps(11), linear;
+}
+.roll {
+  -moz-animation: player_roll 0.6s steps(12), linear;
+  -webkit-animation: player_roll 0.6s steps(12), linear;
+}
+@-moz-keyframes player_run {
+  0% {
+    background-position: 0px 0px;
+  }
+  100% {
+    background-position: -1500px 0px;
+  }
+}
+@-webkit-keyframes player_run {
+  0% {
+    background-position: 0px 0px;
+  }
+  100% {
+    background-position: -1500px 0px;
+  }
+}
+@-moz-keyframes player_jump {
+  0% {
+    background-position: 0px -250px;
+  }
+  100% {
+    background-position: -1375px -250px;
+  }
+}
+@-webkit-keyframes player_jump {
+  0% {
+    background-position: -0px -250px;
+  }
+  100% {
+    background-position: -1375px -250px;
+  }
+}
+@-moz-keyframes player_roll {
+  0% {
+    background-position: 0px -125px;
+  }
+  100% {
+    background-position: -1500px -125px;
+  }
+}
+@-webkit-keyframes player_roll {
+  0% {
+    background-position: 0px -125px;
+  }
+  100% {
+    background-position: -1500px -125px;
+  }
+}
+#player2 {
+  position: absolute;
+  bottom: 5px;
+  left: 50%;
+  margin: auto auto;
+  width: 125px;
+  height: 125px;
+  -webkit-transform: translateZ(0);
+  background-image: url(http://i.imgur.com/VTyo70d.png);
+  z-index: 2;
+}
+
+.wilku {
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  border: none;
+  background: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/73058/possessed.svg) 0 0 repeat-x;
+  height: 110px;
+  width: 180px;
+  position: absolute;
+  bottom: -30px;
+  left: 90%;
+  margin-left: -100px;
+  font: normal 16px/normal"Times New Roman", Times, serif;
+  color: rgba(0, 0, 0, 0.9);
+  -o-text-overflow: clip;
+  text-overflow: clip;
+  -webkit-transform: rotateX(-1deg) rotateY(-180deg);
+  transform: rotateX(-1deg) rotateY(-180deg);
+    z-index: 1;
+}
+
+@keyframes translate {
+  0% {
+    transform: translateX(-200px);
+  }
+  100% {
+    transform: translateX(2000px);
+  }
+}
+
+.foreground,
+.midground,
+.background {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  translate3d(0, 0, 0);
+  background-position: 0 100%;
+}
+.foreground {
+  animation: parallax_fg linear 10s infinite both;
+  background: url(https://dl.dropbox.com/u/5039313/fg-grasses.png) 0 110% repeat-x;
+  z-index: 5;
+}
+@keyframes parallax_fg {
+  0% {
+    background-position: 0px 100%;
+  }
+  100% {
+    background-position: -3584px 100%;
+  }
+}
+.midground {
+  animation: parallax_mg linear 20s infinite;
+  background: url(https://dl.dropbox.com/u/5039313/mg-grasses.png) 0 100% repeat-x;
+  z-index: 3;
+}
+@keyframes parallax_mg {
+  0% {
+    background-position: 0px 100%;
+  }
+  100% {
+    background-position: -3000px 100%;
+  }
+}
+.background {
+  background-image: url(https://dl.dropbox.com/u/5039313/bg-3000.png), url(https://dl.dropbox.com/u/5039313/bg-2000.png);
+  background-repeat: repeat-x;
+  background-position: 0 100%;
+  z-index: 1;
+  animation: parallax_bg linear 40s infinite;
+}
+@keyframes parallax_bg {
+  0% {
+    background-position: 0px 100%;
+  }
+  100% {
+    background-position: -3000px 100%, -2000px 100%, -1800px 100%, -1600px 100%, -1200px 100%;
+  }
+}
+.muybridge {
+  animation: walk-cycle .5s steps(10) infinite;
+  background: url(https://dl.dropbox.com/u/5039313/horse-muybridge4.png) 0 0 repeat-x;
+  height: 110px;
+  width: 180px;
+  position: absolute;
+  bottom: 30px;
+  left: 50%;
+  margin-left: -100px;
+  translate3d(0, 0, 0);
+  /* offers a bit of a performance boost by pushing some of this processing to the GPU in Safari*/
+  z-index: 1;
+}
+.muybridge2 {
+  animation: walk-cycle .7s steps(10) infinite;
+  background: url(https://dl.dropbox.com/u/5039313/horse-muybridge4.png) 0 0 repeat-x;
+  height: 110px;
+  width: 180px;
+  translate3d(0, 0, 0);
+  z-index: 4;
+}
+.horse-position {
+  animation: catchup 60s ease-in-out infinite;
+  position: absolute;
+  bottom: 8px;
+  left: 50%;
+  margin-left: -300px;
+  z-index: 4;
+}
+/* Sprint, then slow */
+
+@keyframes catchup {
+  0% {
+    left: 10%
+  }
+  10% {
+    left: 85%
+  }
+  100% {
+    left: 10%
+  }
+}
+/* step through frames horizontally */
+
+@keyframes walk-cycle {
+  0% {
+    background-position: -12px -10px;
+  }
+  100% {
+    background-position: -1950px -10px;
+  }
+}
