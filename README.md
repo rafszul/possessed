@@ -1,23 +1,18 @@
-don't u just love the short description?
-
-let's leave it there
-
-![](https://s3-us-west-2.amazonaws.com/s.cdpn.io/73058/mountains-584280.png-01-OMG.svg)
-
----
-
-the game is in s very early stage of development and at the moment i'm only gathering together materials and graphical elements which might inspire some of the artwork that eventually will end up as part of the game.
-
-<a data-pin-do="embedBoard" href="https://www.pinterest.com/rafszul/possessed-with-fire/"data-pin-scale-width="80" data-pin-scale-height="200" data-pin-board-width="400">        Follow rafal's board possessed-with-fire on Pinterest.</a><!-- Please call pinit.js only once per page --><script type="text/javascript" async src="//assets.pinterest.com/js/pinit.js"></script>
-
-some graphics http://padlet.com/rafszul/shadows already went through the meat-grinder and you can find them in [/img folder](img).
-
-with this in mind i would like to take a look at the description again this time with links to some references which might tell you more than my explanations ever could/would or most probably will be (unless we have a better writer than me that is).
+don't u just love the short description? let's have it again
 
 possessed with fire is an impertinent and volatile synthesis of [modern web tech](http://goo.gl/5e9f0); intoxicated with primitive game mechanics and [heavy acid techno](http://goo.gl/p1Glpv); then set on a mathematically defined collision course with dynamic and razor-edged [scalable vector graphics](http://goo.gl/Zf9BBh)
 
-http://codepen.io/search?q=svg&limit=all&depth=everything&show_forks=false
+[![possessed-splash](https://s3-us-west-2.amazonaws.com/s.cdpn.io/73058/mountains-584280.png-01-OMG.svg)](https://github.com/rafszul/possessed)
 
-some of these assets could be seen below while the credits and info re orgin can be found [here](https://gist.github.com/rafszul/efb1d4a4428d651c4c5e)
 
-<iframe src='//padlet.com/embed/ivq9n4j6u21a' frameborder='0' width='100%' height='480px' style='padding:0;margin:0;border:none'></iframe>
+the game is in s very early stage of development and at the moment it all seems like gathering of the assets and lots and lots of zombie coding.
+
+some materials and graphical elements which might inspire some of the artwork that eventually will end up as part of the game can be seen here:
+
+http://bl.ocks.org/rafszul/efb1d4a4428d651c4c5e
+
+while other [graphics](http://padlet.com/rafszul/shadows) already went through the meat-grinder and are awaiting further work in [/img folder](img) in this repo.
+
+http://padlet.com/rafszul/shadows
+
+credits and info re origin of the assets can be found in previously mentioned [efb1d4a4428d651c4c5e](https://gist.github.com/rafszul/efb1d4a4428d651c4c5e) as well as in [credits.md](credits.md) and [canvas-exploration-credits.md](canvas-exploration-credits.md)
