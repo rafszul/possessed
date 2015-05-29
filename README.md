@@ -11,8 +11,8 @@ some materials and graphical elements which might inspire some of the artwork th
 
 http://bl.ocks.org/rafszul/efb1d4a4428d651c4c5e
 
-while other [graphics](http://padlet.com/rafszul/shadows) already went through the meat-grinder and are awaiting further work in [/img folder](img) in this repo.
+while other [graphics](http://padlet.com/rafszul/shadows) already went through the meat-grinder and are awaiting further work in [/img folder](img/shadows-svg) of this repo.
 
-http://padlet.com/rafszul/shadows
+
 
 credits and info re origin of the assets can be found in previously mentioned [efb1d4a4428d651c4c5e](https://gist.github.com/rafszul/efb1d4a4428d651c4c5e) as well as in [credits.md](credits.md) and [canvas-exploration-credits.md](canvas-exploration-credits.md)
