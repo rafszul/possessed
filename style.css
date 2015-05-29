@@ -116,7 +116,7 @@ html {
   -moz-box-sizing: content-box;
   box-sizing: content-box;
   border: none;
-  background: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/73058/possessed.svg) 0 0 repeat-x;
+  background: url(img/possessed.svg) 0 0 repeat-x;
   height: 110px;
   width: 180px;
   position: absolute;
