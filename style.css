@@ -36,7 +36,7 @@ html {
   width: 125px;
   height: 125px;
   -webkit-transform: translateZ(0);
-  background-image: url(http://i.imgur.com/VTyo70d.png);
+  background-image: url(img/sprite-shapes-cleaned.svg);
   z-index: 2;
 }
 .run {
@@ -107,7 +107,7 @@ html {
   width: 125px;
   height: 125px;
   -webkit-transform: translateZ(0);
-  background-image: url(http://i.imgur.com/VTyo70d.png);
+  background-image: url(img/sprite-shapes-cleaned.svg);
   z-index: 2;
 }
 
@@ -154,7 +154,7 @@ html {
 }
 .foreground {
   animation: parallax_fg linear 10s infinite both;
-  background: url(https://dl.dropbox.com/u/5039313/fg-grasses.png) 0 110% repeat-x;
+  background: url(img/fg-grasses_cleaned.svg) 0 110% repeat-x;
   z-index: 5;
 }
 @keyframes parallax_fg {
@@ -167,7 +167,7 @@ html {
 }
 .midground {
   animation: parallax_mg linear 20s infinite;
-  background: url(https://dl.dropbox.com/u/5039313/mg-grasses.png) 0 100% repeat-x;
+  background: url(img/mg-grasses_cleaned.svg) 0 100% repeat-x;
   z-index: 3;
 }
 @keyframes parallax_mg {
@@ -179,7 +179,7 @@ html {
   }
 }
 .background {
-  background-image: url(https://dl.dropbox.com/u/5039313/bg-3000.png), url(https://dl.dropbox.com/u/5039313/bg-2000.png);
+  background-image: url(img/bg-3000-cleaned.svg), url(img/bg-2000-cleaned.svg);
   background-repeat: repeat-x;
   background-position: 0 100%;
   z-index: 1;
@@ -195,7 +195,7 @@ html {
 }
 .muybridge {
   animation: walk-cycle .5s steps(10) infinite;
-  background: url(https://dl.dropbox.com/u/5039313/horse-muybridge4.png) 0 0 repeat-x;
+  background: url(img/horse-shapes-cleaned.svg) 0 0 repeat-x;
   height: 110px;
   width: 180px;
   position: absolute;
@@ -208,7 +208,7 @@ html {
 }
 .muybridge2 {
   animation: walk-cycle .7s steps(10) infinite;
-  background: url(https://dl.dropbox.com/u/5039313/horse-muybridge4.png) 0 0 repeat-x;
+  background: url(img/horse-shapes-cleaned.svg) 0 0 repeat-x;
   height: 110px;
   width: 180px;
   translate3d(0, 0, 0);
