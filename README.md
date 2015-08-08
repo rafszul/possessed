@@ -2,7 +2,9 @@ don't u just love the short description? let's have it again
 
 possessed with fire is an impertinent and volatile synthesis of [modern web tech](http://goo.gl/5e9f0); intoxicated with primitive game mechanics and [heavy acid techno](http://goo.gl/p1Glpv); then set on a mathematically defined collision course with dynamic and razor-edged [scalable vector graphics](http://goo.gl/Zf9BBh)
 
-[![possessed-splash](https://s3-us-west-2.amazonaws.com/s.cdpn.io/73058/mountains-584280.png-01-OMG.svg)](https://github.com/rafszul/possessed)
+for some visual feel check out http://possessed.surge.sh/ or click the graphic below.
+
+[![possessed-splash](https://s3-us-west-2.amazonaws.com/s.cdpn.io/73058/mountains-584280.png-01-OMG.svg)](http://possessed.surge.sh/)
 
 
 the game is in s very early stage of development and at the moment it all seems like gathering of the assets and lots and lots of zombie coding.
