@@ -1,3 +1,9 @@
+UPDATE (06.06.2018)
+
+this project has been movd to https://github.com/rafszul/possessed-with-fire
+
+---
+
 don't u just love the short description? let's have it again
 
 possessed with fire is an impertinent and volatile synthesis of [modern web tech](http://goo.gl/5e9f0); intoxicated with primitive game mechanics and [heavy acid techno](http://goo.gl/p1Glpv); then set on a mathematically defined collision course with dynamic and razor-edged [scalable vector graphics](http://goo.gl/Zf9BBh)
