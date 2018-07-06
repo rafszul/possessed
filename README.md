@@ -1,6 +1,6 @@
 UPDATE (06.06.2018)
 
-this project has been movd to https://github.com/rafszul/possessed-with-fire
+this project has been moved to https://github.com/rafszul/possessed-with-fire
 
 ---
 
